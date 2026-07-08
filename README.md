@@ -38,11 +38,10 @@ A Global Game Jam project developed with GDScript.
 
 ## 🛠️ Technical skills
 
-### Languages
+### 🌍 Languages
+🇮🇹 Italian (native)
 
-Italian
-
-English (intermediate)
+🇬🇧 English (intermediate)
 
 ### 🎮 Game development
 
