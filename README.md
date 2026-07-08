@@ -1,16 +1,17 @@
 # Hi there, I'm Giuseppe Cricrì 👋
 
 🎮 I'm a Game Development student based in Verona, Italy.
-I'm currently focusing on Technical Design, working on gameplay systems, game mechanics, and their technical implementation using C++, Unreal Engine, and real-time graphics tools.
+
+I'm currently focusing on **Technical Design**, working on gameplay systems, game mechanics, UI, and their technical implementation using C++, Unreal Engine, DirectX 11, and real-time graphics tools.
 
 I use GitHub as a portfolio to collect university projects, game prototypes, technical exercises, and experiments developed during my Game Development path, with a focus on designing and implementing interactive systems.
 
 ## 👨‍💻 About me
 
 * 🎓 Game Development student with a focus on Technical Design
-* 🕹️ Interested in gameplay systems, game mechanics design, UI, and the technical implementation of features
+* 🕹️ Interested in gameplay systems, game mechanics design, UI, and feature implementation
 * ⚙️ Currently improving my skills in C++, Unreal Engine, DirectX 11, HLSL, Git, and software architecture for games
-* 🧪 Building small but complete projects that combine design thinking with clean, readable code and playable results
+* 🧪 Building small but complete projects that combine design thinking, readable code, and playable results
 
 ## 🚀 Featured projects
 
@@ -32,34 +33,61 @@ The project focuses on physics-based gameplay, Unreal project organization, Git 
 
 ### 🫧 GGJ25
 
-A Global Game Jam project developed with GDScript.
+A Global Game Jam 2025 project developed in Godot using GDScript.
 
 🔗 Repository: [GGJ25](https://github.com/CRICRICode/GGJ25)
 
-## 🛠️ Technical skills
+## 🎮 Collaborative projects
 
-### 🌍 Languages
-🇮🇹 Italian (native)
-
-🇬🇧 English (intermediate)
-
-### 🎮 Game development
+### A Forgetful Story
 
 A collaborative game developed with a team of 30 people.
 
 🔗 [A Forgetful Story](https://letsdogames.itch.io/a-forgetful-story)
 
-### 🛠️ Tools and workflow
+## 🛠️ Technical skills
+
+### Programming languages
+
+* C++
+* C#
+* Java
+* Javascript
+* TypeScript
+* HTML
+* React
+* CSS
+* GDScript
+* HLSL
+* MySQL
+
+### Game development
 
 * Unreal Engine
 * Unity
 * Godot
+* DirectX 11
+* Gameplay programming
+* Technical design
+* UI implementation
+* Real-time graphics fundamentals
+
+### Tools and workflow
+
+* Git
 * GitHub
+* Git LFS
+* Visual Studio
 * Visual Studio Code
+* Rider
 * Blender
 * Figma
 * Notion
-* Rider
+
+## 🌍 Spoken languages
+
+* 🇮🇹 Italian — Native
+* 🇬🇧 English — Intermediate
 
 ## 📚 Currently learning
 
@@ -81,4 +109,5 @@ I'm currently focused on building a stronger Game Development portfolio by impro
 ## 📫 Contact
 
 You can find my work here on GitHub.
-I'm interested in game development, technical programming, and collaborative projects related to interactive media.
+
+I'm interested in game development, technical programming, technical design, and collaborative projects related to interactive media.
