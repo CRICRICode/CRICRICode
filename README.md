@@ -37,52 +37,35 @@ A Global Game Jam 2025 project developed in Godot using GDScript.
 
 🔗 Repository: [GGJ25](https://github.com/CRICRICode/GGJ25)
 
-## 🎮 Collaborative projects
+## 🤝 Collaborative projects
 
-### A Forgetful Story
+### 🎮 A Forgetful Story
 
-A collaborative game developed with a team of 30 people.
+A short narrative walking simulator developed in Unreal Engine by Letsdo Games, a collaborative independent team that includes university students.
 
-🔗 [A Forgetful Story](https://letsdogames.itch.io/a-forgetful-story)
+The demo presents the concept of a grandmother and her grandson who, while playing a tabletop role-playing game, are transported into a fantasy universe where the story gradually takes an unexpected turn.
+
+I worked on the project as Lead Programmer & Tech Artist, contributing to the technical implementation of the demo within a multidisciplinary team.
+
+🔗 Demo: [A Forgetful Story](https://letsdogames.itch.io/a-forgetful-story)
+
+### 🌐 INAP — Istituto Nazionale Assaggiatori Pani
+
+A collaborative website developed with two former Computer Engineering colleagues for the INAP / Assaggiatori Pani project.
+
+The project involved web design, front-end development, content organization, and the creation of a public-facing website for a real association/community.
+
+🔗 Website: [assaggiatoripani.org](https://assaggiatoripani.org)
 
 ## 🛠️ Technical skills
 
-### Programming languages
-
-* C++
-* C#
-* Java
-* Javascript
-* TypeScript
-* HTML
-* React
-* CSS
-* GDScript
-* HLSL
-* MySQL
-
-### Game development
-
-* Unreal Engine
-* Unity
-* Godot
-* DirectX 11
-* Gameplay programming
-* Technical design
-* UI implementation
-* Real-time graphics fundamentals
-
-### Tools and workflow
-
-* Git
-* GitHub
-* Git LFS
-* Visual Studio
-* Visual Studio Code
-* Rider
-* Blender
-* Figma
-* Notion
+| Area | Main skills |
+|---|---|
+| Core Programming | `C++` `C#` `Java` `GDScript` |
+| Game Development | `Unreal Engine` `Unity` `Godot` `Gameplay Programming` `Technical Design` |
+| Graphics | `DirectX 11` `HLSL` `Real-time Rendering` `Shader Programming` |
+| Web & UI | `HTML` `CSS` `JavaScript` `TypeScript` `React` |
+| Tools | `Git` `GitHub` `Git LFS` `Visual Studio` `Rider` `Blender` `Figma` `Notion` |
 
 ## 🌍 Spoken languages
 
